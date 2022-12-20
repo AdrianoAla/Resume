@@ -16,7 +16,7 @@
 
 
 ## Programming Qualifications
- - Finished all problem sets in Harvards online [Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) course, also known as the CS50x. I am currently working on the final project assignment.
+ - Finished all problem sets in Harvards online [Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) course, also known as the CS50x. I am currently working on the [final project](https://github.com/AdrianoAla/cs50-final-project) assignment.
  - 3+ years of python coding, very proficient with it and its syntax.
     - Basic knowledge of how to make graphical applications using Pygame, Turtle and TKinter.
     - Recently started using flask as a part of the CS50x, working on my final project with it.

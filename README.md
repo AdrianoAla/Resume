@@ -24,4 +24,4 @@
     - Created websites with Next.js, such as [1001](https://adrianoalasia.com/) ([repository](https://github.com/AdrianoAla/1001-NextJS)) and one I am currently working on called [Vinylist](https://vinylist.vercel.app) (CSS is unfinished and registration has been disabled, see [repository](https://github.com/AdrianoAla/vinyl-collector)).
     - 3+ years of programming web servers and other applications in Node.js using express.
  - 1 year of C programming as a part of the CS50x course.
- - 7+ years of experience with scratch, more recently I've been helping children around 10 years old with scratch alongside teaching them basic mechanics of computer science (loops, conditionals, variable assignment, functions)
+ - 5+ years of experience with scratch, more recently I've been helping children around 10 years old with scratch alongside teaching them basic mechanics of computer science (loops, conditionals, variable assignment, functions)

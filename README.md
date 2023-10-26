@@ -1,8 +1,8 @@
-## About me
+## About Me
  - 🖥️ I have been passionate about computer science, programming and technology for as long as I can remember.
  - 👨‍🏫 I have a passion for making complex concepts simple and digestible, and for sharing my knowledge with people.
  - 🧮 I have a passion for math, especially algebra and number theory.
- - 🏛️ I'm interested in politics, participating in the weekly model house of commons meetings at my high school.
+ - 🏛️ I'm very interested in politics and governance.
  - 💻 I am currently in the computing club at my school.
  - 💡 I am in the giftedness program at my high school
  - 🌎 I am a polyglot, I speak:
@@ -12,6 +12,9 @@
    - 🇦🇷 Spanish (15 years, conversationally fluent).
  - ⚖️ I founded and run a progressive action club at my school, which takes a look at current events through a social justice lens.
 
+## Previous Work Experience
+
+ - Since February of 2023, I have been working as a software engineer for Proximify, a small business based in Ottawa creating website solutions for individuals and institutions.
 
 ## Programming Qualifications
  - Finished all problem sets in Harvards online [Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) course, also known as the CS50x. I finished my [final project](https://github.com/AdrianoAla/cs50-final-project) on December 27th 2022.

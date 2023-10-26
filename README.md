@@ -11,8 +11,8 @@
    - 🇬🇧 English (15 years, fluent).
    - 🇫🇷 French (11 years, fluent).
    - 🇮🇹 Italian (15 years, fluent).
-   - 🇦🇷 Spanish (15 years, somewhat conversational).
- - 🚣 I have been rowing at the Ottawa Rowing Club for 2 years.
+   - 🇦🇷 Spanish (15 years, conversationally fluent).
+ - ⚖️ I founded and run a progressive action club at my school, which takes a look at current events through a social justice lens.
 
 
 ## Programming Qualifications
@@ -22,7 +22,7 @@
     - Recently started using flask as a part of the CS50x, working on my [final project](https://github.com/AdrianoAla/cs50-final-project) with it.
 - 5 years of using the p5.js graphics library for 2D graphics and animation.
 - 3+ years of HTML, CSS and Javascript programming.
-    - Created websites with Next.js, such as [1001](https://adrianoalasia.com/) ([repository](https://github.com/AdrianoAla/1001-NextJS)) and one I am currently working on called [Vinylist](https://vinylist.vercel.app) (CSS is unfinished and registration has been disabled, see [repository](https://github.com/AdrianoAla/vinyl-collector)).
+    - Created websites with Next.js, such as [1001](https://adrianoalasia.com/) ([repository](https://github.com/AdrianoAla/1001-NextJS)) and one I am currently working on called [Vinylist](https://vinylist.vercel.app) (CSS is unfinished as of now and registration has been disabled, see [repository](https://github.com/AdrianoAla/vinyl-collector)).
     - Around 2 years of programming web servers and other applications in Node.js using express.
  - 1 year of C programming as a part of the CS50x course, completing tasks such as creating programs to declare winners in [preferential voting systems](tideman.c).
    - Knowledge of image graphics manipulation with C, as seen in [filter (more)](filter.c)

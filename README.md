@@ -1,5 +1,3 @@
-# Resume
-
 ## About me
  - 🖥️ I have been passionate about computer science, programming and technology for as long as I can remember.
  - 👨‍🏫 I have a passion for making complex concepts simple and digestible, and for sharing my knowledge with people.

@@ -1,7 +1,7 @@
 ## About Me
  - 🖥️ I have been passionate about computer science, programming and technology for as long as I can remember.
  - 👨‍🏫 I have a passion for making complex concepts simple and digestible, and for sharing my knowledge with people.
- - 🧮 I have a passion for math, especially algebra and number theory.
+ - 🧮 I have a passion for math, especially algebra, calculus, and number theory.
  - 🏛️ I'm very interested in politics and governance.
  - 💻 I am currently in the computing club at my school.
  - 💡 I am in the giftedness program at my high school

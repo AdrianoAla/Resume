@@ -5,7 +5,7 @@
  - 🏛️ I'm very interested in politics and governance.
  - 💻 I am currently in the computing club at my school.
  - 💡 I am in the giftedness program at my high school
- - 🌎 I am a polyglot, I speak:
+ - 🌎 I speak 4 languages:
    - 🇬🇧 English (15 years, fluent).
    - 🇫🇷 French (11 years, fluent).
    - 🇮🇹 Italian (15 years, fluent).
@@ -14,7 +14,7 @@
 
 ## Previous Work Experience
 
- - Since February of 2023, I have been working as a software engineer for Proximify, a small business based in Ottawa creating website solutions for individuals and institutions.
+ - Since February of 2023, I have been working as a software developer for Proximify, a small business based in Ottawa creating website solutions for individuals and institutions.
 
 ## Programming Qualifications
  - Finished all problem sets in Harvards online [Intro to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) course, also known as the CS50x. I finished my [final project](https://github.com/AdrianoAla/cs50-final-project) on December 27th 2022.

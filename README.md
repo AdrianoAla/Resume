@@ -3,14 +3,12 @@
  - 👨‍🏫 I have a passion for making complex concepts simple and digestible, and for sharing my knowledge with people.
  - 🧮 I have a passion for math, especially algebra, calculus, and number theory.
  - 🏛️ I'm very interested in politics and governance.
- - 💻 I am currently in the computing club at my school.
  - 💡 I am in the giftedness program at my high school
  - 🌎 I speak 4 languages:
    - 🇬🇧 English (15 years, fluent).
    - 🇫🇷 French (11 years, fluent).
    - 🇮🇹 Italian (15 years, fluent).
    - 🇦🇷 Spanish (15 years, conversationally fluent).
- - ⚖️ I founded and run a progressive action club at my school, which takes a look at current events through a social justice lens.
 
 ## Previous Work Experience
 
